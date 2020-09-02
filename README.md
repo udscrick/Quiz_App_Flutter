@@ -1,6 +1,6 @@
-# quiz_app
+# QuizzApp: An elementary FLutter based quiz app
 
-A new Flutter project.
+This project was made to explore the basic workings of the flutter framework in order to develop cross platform apps. Feel free to fork and explore
 
 ## Getting Started
 
